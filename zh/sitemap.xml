@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://zhiyuan-jiang.github.io/zh/categories/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://zhiyuan-jiang.github.io/categories/" hreflang="en"/>
+    
+      <loc>https://zhiyuan-jiang.github.io/zh/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://zhiyuan-jiang.github.io/zh/publication_types/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://zhiyuan-jiang.github.io/publication_types/" hreflang="en"/>
+    
+      <loc>https://zhiyuan-jiang.github.io/zh/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://zhiyuan-jiang.github.io/zh/tags/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://zhiyuan-jiang.github.io/tags/" hreflang="en"/>
+    
+      <loc>https://zhiyuan-jiang.github.io/zh/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://zhiyuan-jiang.github.io/zh/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://zhiyuan-jiang.github.io/" hreflang="en"/>
+    
+      <loc>https://zhiyuan-jiang.github.io/zh/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
